@@ -41,6 +41,14 @@ public class MyNotes {
 			System.out.println(num);
 			//grades.remove(grades.get(0));    *  wrong thing
 		}
+		
+		
+		
+		/*
+		 * something[i]
+		 * somethinglist.get(i)
+		 * They are the same thing.
+		 */
 	}
 
 }
